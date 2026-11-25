@@ -1,0 +1,26 @@
+# Core Deep Learning & Graph Neural Networks
+torch>=2.3.0
+torch_geometric>=2.5.0
+
+# Cheminformatics
+rdkit>=2024.3.1
+
+# Quantum Machine Learning & Hardware
+pennylane>=0.38.0
+pennylane-lightning>=0.38.0
+qiskit>=1.2.0
+qiskit-ibm-runtime>=0.30.0
+
+# Scientific Computing & ML
+numpy>=1.26.0,<2.3.0
+pandas>=2.2.0
+scikit-learn>=1.5.0
+
+# Visualization
+matplotlib>=3.9.0
+seaborn>=0.13.0
+
+# Configuration, Environment & Web App
+pyyaml>=6.0.1
+python-dotenv>=1.0.1
+streamlit>=1.38.0
