@@ -1,0 +1,18 @@
+{
+  "dataset": "bace",
+  "checkpoint": "results\\checkpoints\\bace_hybrid_angle_seed42.pt",
+  "n_molecules": 50,
+  "n_positives": 13,
+  "backend": "ibm_fez",
+  "job_id": "dc3q0pls2omc738e1m2g",
+  "shots": 1024,
+  "optimization_level": 3,
+  "transpiled_depth": 71,
+  "two_qubit_gate_count": 21,
+  "ideal_roc_auc": 0.9002079002079002,
+  "ideal_pr_auc": 0.7348386907210436,
+  "qpu_roc_auc": 0.8981288981288982,
+  "qpu_pr_auc": 0.7192659263813108,
+  "mae_expectation": 0.06767060154032048,
+  "mae_probability": 0.02973473072052002
+}
